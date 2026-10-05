@@ -1,0 +1,7 @@
+{
+  "name": "labirinto-parassita",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Mantide e nematomorfo: un gioco di persuasione per due persone",
+  "scripts": {"test": "node --test tests/*.cjs"}
+}

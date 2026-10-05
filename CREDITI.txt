@@ -1,0 +1,23 @@
+Il labirinto del parassita — versione 2.0
+
+Tavole: realizzate con il renderer Python illustrato del progetto
+labirinto-palude-bello e compresse in WebP. Geometrie in mazes.js.
+Asset botanici: generati con ImageGen integrato nel progetto originale.
+Corpo della mantide: nuova illustrazione generata con ImageGen.
+Zampe articolate, antenne, nematomorfo, effetti e suoni: realizzati in codice
+per questo gioco, senza librerie o servizi esterni.
+Favicon: disegno SVG originale della testa di una mantide.
+Stagno: generato con ImageGen integrato per questa versione del gioco.
+Nessun servizio esterno viene contattato durante il gioco.
+
+Prompt dell'asset stagno:
+A single small circular woodland pond destination icon for a hand-painted
+natural history educational board game. True orthographic directly overhead
+view, matching a beautiful maze with olive moss, golden dirt paths, roots and
+finely illustrated foliage. Round organic pool of muted teal-green still
+water encircled by an irregular rim of dry brown earth, tiny reeds, moss and
+a few leaves. Delicate illustrated realism, warm diffuse lighting. Genuine
+transparent outside the circular vignette. No text, no letters, no animal,
+no extra separate objects. Centered complete object, fills 85 percent of
+square, clean silhouette readable at 60 pixels. The water is exclusively
+inside the destination icon.
